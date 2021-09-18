@@ -1,4 +1,4 @@
-# Stranger Lights
+# Stranger Lights 🎇
 
 Stranger Lights is simple app that uses Stranger Things theme using christmas lights.
  
